@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="500"/>
+  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manav-rajpurohit-762109245/">
