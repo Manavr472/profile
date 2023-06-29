@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="500"/>
-  <h2>My name is Martian and this world, I'm out of it</h2>
+  <h4>My name is Martian and this world, I'm out of it</h4>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manav-rajpurohit-762109245/">
