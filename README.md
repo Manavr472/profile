@@ -16,4 +16,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Manavr472&style=flat-square&color=blue" alt="Martian"/>
 </div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manavr472&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manavr472&theme=dark&background=000000)](https://git.io/streak-stats)
