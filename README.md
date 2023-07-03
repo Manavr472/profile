@@ -17,6 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=Manavr472&style=flat-square&color=blue" alt="Martian"/>
 </div>
 <div align="center">
-  <img src ="https://github-readme-stats-amber-nine-34.vercel.app/api?username=Manavr472&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-amber-nine-34.vercel.app/api/top-langs/?username=Manavr472&layout=compact" />
+  <img src ="https://github-readme-stats-b2lznf1b6-manavr472.vercel.app/api?username=Manavr472&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-b2lznf1b6-manavr472.vercel.app/api/top-langs/?username=Manavr472&layout=compact" />
 </div>
