@@ -20,5 +20,3 @@
   <img src ="https://github-readme-stats-gpku.vercel.app/api?username=Manavr472&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats-gpku.vercel.app/api/top-langs/?username=Manavr472&layout=compact" />
 </div>
-[![wakatime](https://wakatime.com/badge/user/4405aa71-4aca-4288-8d59-99aea5788c05.svg)](https://wakatime.com/@4405aa71-4aca-4288-8d59-99aea5788c05)
-[![total hours of coding since march 2021](https://wakatime.com/badge/user/4405aa71-4aca-4288-8d59-99aea5788c05.svg)](https://wakatime.com/@4405aa71-4aca-4288-8d59-99aea5788c05)
