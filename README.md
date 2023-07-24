@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Manavr472&style=flat-square&color=blue" alt="Martian"/>
 </div>
-<img align="right" src="https://wakatime.com/share/@Manavr472/9c9f476b-c336-4154-b160-7d12b3d700f2.svg" height="400px">
+<img align="right" src="https://wakatime.com/share/@Manavr472/9c9f476b-c336-4154-b160-7d12b3d700f2.svg" height="350px">
 
 <div align="center">
   <img src ="https://github-readme-stats-gpku.vercel.app/api?username=Manavr472&show_icons=true&theme=radical" />
