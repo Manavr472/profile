@@ -18,8 +18,8 @@
 </div>
 
 <img align="right" src="https://wakatime.com/share/@Manavr472/9c9f476b-c336-4154-b160-7d12b3d700f2.svg" height="300px">
+<img align="right" src="https://wakatime.com/badge/user/4405aa71-4aca-4288-8d59-99aea5788c05.svg">
 
-[![wakatime](https://wakatime.com/badge/user/4405aa71-4aca-4288-8d59-99aea5788c05.svg)](https://wakatime.com/@4405aa71-4aca-4288-8d59-99aea5788c05)
 
 <div align="center">
   <img src ="https://github-readme-stats-gpku.vercel.app/api?username=Manavr472&show_icons=true&theme=radical" />
