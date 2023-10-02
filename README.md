@@ -19,7 +19,7 @@
 </div>
 <div align="center">
   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Manavr472&show_icons=true&theme=radical" height="150" />
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavr472&layout=compact&theme=radical" height="150" >
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavr472&layout=compact&theme=cobalt" height="150" >
 </div>
 <br><br>
 
