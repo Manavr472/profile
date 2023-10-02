@@ -3,6 +3,7 @@
   <h4>My name is Martian and this world, I'm out of it</h4>
 </div>
 <div id="badges" align="center">
+  [![An image of @manavr472's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manavr472)](https://holopin.io/@manavr472)
   <a href="https://www.linkedin.com/in/manav-rajpurohit-762109245/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
