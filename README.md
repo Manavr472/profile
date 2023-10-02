@@ -18,7 +18,8 @@
   <img src="https://wakatime.com/badge/user/4405aa71-4aca-4288-8d59-99aea5788c05.svg">
 </div>
 <div align="center">
-  <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Manavr472&show_icons=true&theme=radical" height="250" />
+  <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Manavr472&show_icons=true&theme=radical" height="150" />
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavr472&layout=compact&theme=radical" height="150" >
 </div>
 <br><br>
 
