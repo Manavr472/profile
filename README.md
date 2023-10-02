@@ -20,6 +20,6 @@
 <img align="right" src="https://wakatime.com/share/@Manavr472/9c9f476b-c336-4154-b160-7d12b3d700f2.svg" height="300px">
 <div align="center">
   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Manavr472&show_icons=true&theme=radical" height="150" />
-</div>
+</div><br><br>
 
 [![An image of @manavr472's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manavr472)](https://holopin.io/@manavr472)
