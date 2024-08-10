@@ -22,5 +22,3 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavr472&layout=compact&theme=radical" height="150" >
 </div>
 <br><br>
-
-[![An image of @manavr472's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manavr472)](https://holopin.io/@manavr472)
